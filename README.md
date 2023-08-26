@@ -5,5 +5,5 @@ AR Test Bank (ARTBank) is a set of Google AR Core Playback videos that can be us
 It is a collaborative project of the University of Texas at San Antonio and Rochester Institute of Technology. We welcome contributions from the public to enhance this dataset. 
 
 Current team members:
-Xiaoyi Yang, Rochester Institute of Technology
-Tahmid Rafi, The University of Texas at San Antonio
+- Xiaoyi Yang and Xueling Zhang, Rochester Institute of Technology
+- Tahmid Rafi and Xiaoyin Wang, The University of Texas at San Antonio
